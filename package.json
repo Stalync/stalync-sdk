@@ -1,6 +1,17 @@
 {
   "name": "@satsuki/stalync-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Reikaa Satsuki <danielarya185@gmail.com> (https://github.com/Satssuki)",
-  "license": "ISC"
+  "license": "ISC",
+  "main": "index.js",
+  "description": "Access stalync functionalities through this sdk",
+  "repository": {
+    "url": "https://github.com/Stalync/stalync-sdk"
+  },
+  "keywords": [
+    "stalync",
+    "sdk",
+    "realtime",
+    "jabbascript"
+  ]
 }
